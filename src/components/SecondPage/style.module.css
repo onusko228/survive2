@@ -1,0 +1,49 @@
+.social {
+	background-image: url(../../static/bgimageabout.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width:100%;
+}
+.social__wrapper{
+    height:100vh;
+    display: flex;
+}
+.social__hero{
+    padding-top:277px;
+}
+.social__inner{
+    list-style:none;
+    color: white;
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    width:400px;
+    letter-spacing:2px;
+}
+.social__title{
+    font-size:24px;
+}
+.social__title2{
+    font-size:80px;
+   max-width:771px;
+	width:100%;
+	border-bottom: 2px solid #fff ;
+    padding: 5px;
+}
+
+
+.social__inner2
+{
+    font-family: "Open Sans", serif;
+    color: white;
+    list-style: none;
+    font-weight:400;
+    font-size: 18px;
+    width:630px;
+    letter-spacing: 2px;
+    padding-top:50px;
+    padding-left:180px;
+}
+.social__text2{
+    padding-top:10px;
+}
